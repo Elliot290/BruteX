@@ -6,4 +6,4 @@
 
     cd BruteX
 
-    bash Setup.sh
+    bash setup.sh
